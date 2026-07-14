@@ -1,4 +1,4 @@
-<h1 align="center"> Dnyaneshwari Thombal 👋</h1>
+<h1 align="center"> Dnyaneshwari Thombal </h1>
 
 <p align="center">
   <b>Computer Science Undergraduate | Full-Stack Developer </b>
@@ -48,4 +48,4 @@ Currently building a portfolio of full-stack projects aimed at solving instituti
 - 📫 Reach out via GitHub Discussions or email (available on request)
 
 ---
-*"Bridging academic rigor with real world execution—one commit at a time."*
+*Bridging academic rigor with real world execution—one commit at a time.*
